@@ -1,0 +1,7 @@
+name: termstatus
+type: module
+description: Adds a status flag to taxonomy terms
+core: 8.x
+package: Media
+dependencies:
+  - taxonomy
